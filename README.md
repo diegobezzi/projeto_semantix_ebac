@@ -3,13 +3,6 @@
 ## Visão Geral
 Este repositório contém o código e os resultados de um projeto de ciência de dados focado na classificação de dois tipos relacionados de câncer: Leucemia Linfoblástica Aguda (LLA) e Leucemia Mieloide Aguda (LMA), utilizando técnicas de machine learning aplicadas em dados de expressão genética. Os modelos de Regressão Logística e Regressão de Componentes Principais (PCR) foram desenvolvidos e comparados para avaliar o impacto da redução de dimensionalidade na precisão preditiva.
 
-## Conteúdo do Repositório
-- `data/`: Diretório contendo os conjuntos de dados utilizados no projeto.
-- `notebooks/`: Jupyter notebooks com toda a análise, desde exploração de dados até modelagem preditiva.
-- `src/`: Código fonte em Python para funções utilizadas nos notebooks.
-- `results/`: Resultados dos modelos em forma de gráficos e tabelas.
-- `README.md`: Este arquivo, fornecendo uma visão geral do projeto.
-
 ## Configuração
 Descrição das principais bibliotecas e dependências utilizadas:
 - Python 3.8+
